@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Ami Bodley Jabo |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 07, 2026 |
+| Lyric Writing Date | May 05, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ami-bodley-jabo/) |
 | License | [View License](./LICENSE.md) |
 | Get License | [Official Usage Rights for Ami Bodley Jabo](https://music.abusayed.com.bd/Licensing/) |

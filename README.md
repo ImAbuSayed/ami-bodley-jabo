@@ -13,14 +13,17 @@
 | Lyric Writing Date | May 07, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ami-bodley-jabo/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Get License For Ami Bodley Jabo](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Official Usage Rights for Ami Bodley Jabo](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> আমার রাতের আঁধার কাটে না.. কাটে না..
+> হৃদয় কাঁপে শূন্য চোখের পাতায়
+> মেঘের মতো উড়ে যায় ঠিকানা.. ঠিকানা..
+> তবু মন ছুঁয়ে যায় তোমার মায়ায়
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)

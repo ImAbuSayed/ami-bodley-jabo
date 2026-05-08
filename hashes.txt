@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ami Bodley Jabo
+
+This log tracks the cryptographic history and versioning for the song **Ami Bodley Jabo** (ami-bodley-jabo).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T15:54:46.669182 | `v1` | `474eaabd00a2e755e6aab008fdf0397b32d22dc8acf36d2f7e67c22bc272f4dd` | `45e063fdefcee91fe2e1c4e7e3c25e22519e2159afd8e8f821ddb5956f2bb8ee` | `2026-05-08_ami-bodley-jabo-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
